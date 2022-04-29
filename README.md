@@ -1,7 +1,7 @@
 ### ¡Hola! 👋 Soy Diego Varela
 Soy un Desarrollador Web en proceso. <br>
 Actualemente estoy en el programa de Oracle +  Aluram Latam, ONE NEXT EDUCATION. <br>
-Enfocado en Logica de Programacion: HTML, CSS; JAVASCRIPT, JAVA, MySQL.
+Enfocado en Logica de Programacion: HTML, CSS, JAVASCRIPT, JAVA, MySQL.
 <!--
 **djvarela/djvarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
