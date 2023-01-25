@@ -1,5 +1,5 @@
 ### ¡Hola! 👋 Soy Diego Varela
-Soy un Desarrollador Web <br>
+Soy Desarrollador Web <br>
 Estoy enfocado en el Front End, pero tambien me gusta indagar en lo que refiere al areas de Back End.<br>
 En la actualidad me encuentro aprendiendo React y profundizando en PHP y MySql.
 
