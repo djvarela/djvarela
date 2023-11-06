@@ -2,7 +2,7 @@
 Soy Desarrollador Web <br>
 Estoy enfocado en el Front End, pero tambien me gusta indagar en lo que refiere al area de Back End.<br>
 En la actualidad me encuentro reforzando React y aprendiedno en Laravel.<br>
-Mientras sigo, con mis proyectos, consolidando mis conocimientos en JS,CSS,PHP y MySql vainilla
+Mientras sigo, con mis proyectos, consolidando los conocimientos en JS, CSS, PHP y MySql vainilla.
 
 
 <!--
